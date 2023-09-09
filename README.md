@@ -15,3 +15,10 @@
 注1：Data文件夹观测太阳的数据可能并不准确，因为当时观测太阳时，氢谱线也在附近，所以数据里面在1420MHz附近明显有峰突起。
 
 注2：如果读者使用rtl sdr观测的话，可以先在IF Average插件中扣除凹凸不平的底噪。当然，不扣除应该也可以得到正确的成像，在此我只是提示一下有这个操作，也许哪天能用得到，可以参考http://radioastronomy.online/home/topic/15/ 红字部分所示
+
+一些图片如下所示，第一张是扫描方式，第二张是效果不好的成像
+
+![solar1](./graphs/solar1.png "solar1")
+
+
+![solar2](./graphs/solar2.png "solar2")
